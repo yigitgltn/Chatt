@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chatt</string>
+	<string name="type_msg">Mesaj Türü</string>
+	
+	<string name="drawer_open">Açık</string>
+	<string name="draver_close">Kapalı</string>
+	
+	<string name="or">veya</string>
+	<string name="email">Email</string>
+	<string name="username">Kullanıcı Adı</string>
+	<string name="password">Parola</string>
+	<string name="register">Kayıt</string>
+	<string name="Log_in">Giriş</string>
+	<string name="forgot_my_pwd">Şifremi unuttum?</string>
+	<string name="my_chats">Sohbet</string>
+	<string name="all_chats">Tüm Sohbetler</string>
+	<string name="search">Arama</string>
+	<string name="to">İçin :</string>
+	<string name="edit">Düzenlemek</string>
+	<string name="new_chat">Yeni Sohbet</string>
+	<string name="alert_wait">Lütfen bekleyiniz...</string>
+	<string name="err_fields_empty">Lütfen tüm alanları doldurunuz.</string>
+	<string name="err_singup">Kayıt sırasında hata oluştu:</string>
+	<string name="err_Login">Giriş sırasında hata oluştu:</string>
+	<string name="err_users">Kullanıcılar bulunurken hata oluştu:</string>
+	<string name="alert_loading">Yükleniyor...</string>
+	<string name="msg_no_user_found">Sohbet için kullanıcılar bulunamadı!</string>
+	
+	<string name="action_settings">action settings</string>
+	<string name ="normal">Normal</string>
+	<string name="vigenere">Vigenere</string>
+
+</resources>
